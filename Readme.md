@@ -1,0 +1,1 @@
+Esse repositório tem por objetivo documentar minha evolução/aprendizado da linguagem Python.
