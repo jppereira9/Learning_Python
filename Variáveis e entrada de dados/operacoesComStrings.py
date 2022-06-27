@@ -3,8 +3,6 @@
 
 # Concatenação: O conteúdo de variáveis string podem ser somados, ou melhor, concatenados.
 
-from msilib.schema import MsiDigitalCertificate
-
 
 s = "ABC"
 print(s + "C") # ABBC
