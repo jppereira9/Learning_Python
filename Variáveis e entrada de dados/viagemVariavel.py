@@ -10,4 +10,4 @@ if distancia_viagem <= 200 : # Se a viagem for menor até 200 km
     print("Para uma viagem de {:5.2f} Km, o valor = R$ {:5.2f}".format(distancia_viagem, preco_pagar)) # Distancia de total a pagar
 else :
     preco_pagar = distancia_viagem * 0.45   
-    print("Para uma viagem de {:5.2f} Km, o valor = R$ {:5.2f}".format(distancia_viagem, preco_pagar)) # Distancia de total a pagars 
+    print("Para uma viagem de {:5.2f} Km, o valor = R$ {:5.2f}" .format(distancia_viagem, preco_pagar)) # Distancia de total a pagars 

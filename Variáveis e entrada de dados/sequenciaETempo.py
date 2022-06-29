@@ -13,4 +13,4 @@ compra = 200 # Uma compra de R$ 200,00 foi feita
 divida = compra + divida # divida = 100 + 200, ou seja, divida igual a 300
 compra = 300 # Uma compra de R$ 300,00 foi feita
 divida = compra + divida # divida = 300 + 300, ou seja, divida igual a 600
-print("R$ {:5.2f}".format(divida)) # R$ 600,00
+print("R$ {:5.2f}" .format(divida)) # R$ 600,00

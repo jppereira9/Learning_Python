@@ -2,4 +2,4 @@
 
 metros = int(input("Digite o valor em metros: ")) # Recebe a quantidade em metros 
 milimetros = metros * 1000 # Calcula a quantidade em milimetros (cada metro tem mil milimetros)
-print("{} metros, sao {} milimetros".format(metros, milimetros)) #Exibe a quantidade de metros em milimetros
+print("{} metros, sao {} milimetros" .format(metros, milimetros)) #Exibe a quantidade de metros em milimetros

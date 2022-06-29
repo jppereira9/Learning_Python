@@ -7,4 +7,4 @@ de cigarros fumados por dia e quantos anos ele já fumou. Considere que um fuman
 anos_fumando = int(input("Fuma durante quantos anos? ")) # Anos fumando
 cigarros_por_dia = int(input("Fuma quantos cigarro por dia? ")) # Cigarros por dia
 tempo_perdido = (anos_fumando * 365 * cigarros_por_dia) / 1400
-print("Fumando {} cigarros por dia, durante {} anos, voce perdeu{:5.0f} dias de vida".format(cigarros_por_dia, anos_fumando, tempo_perdido))
+print("Fumando {} cigarros por dia, durante {} anos, voce perdeu{:5.0f} dias de vida" .format(cigarros_por_dia, anos_fumando, tempo_perdido))
