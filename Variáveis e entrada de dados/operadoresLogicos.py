@@ -1,4 +1,4 @@
-''''Para agrupar operações com lógica booleana, utilizaremos operadores lógicos, são eles:
+'''' Para agrupar operações com lógica booleana, utilizaremos operadores lógicos, são eles:
 - not (operador unário)
 - and (operador binário)
 - or (operador binário)

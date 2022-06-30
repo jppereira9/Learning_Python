@@ -1,8 +1,8 @@
 '''
-- Entrada de dados.
-- A função input é utilizada para solicitar dados do usuário. Exemplos:
-
+ - Entrada de dados.
+ - A função input é utilizada para solicitar dados do usuário. Exemplos:
 '''
+
 x = input("Digite um numero: ") # Recebe um número
 print("Valor digitado = {}".format(x)) # Imprime o númerp digitado
 print("\n")

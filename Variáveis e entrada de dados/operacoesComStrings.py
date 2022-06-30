@@ -1,7 +1,7 @@
 # As variáveis de tipo string suportam operações como fatiamento, concatenação e composição
 
 
-# Concatenação: O conteúdo de variáveis string podem ser somados, ou melhor, concatenados.
+# - Concatenação: O conteúdo de variáveis string podem ser somados, ou melhor, concatenados.
 
 
 s = "ABC"
@@ -19,8 +19,9 @@ idade = 10
 print(nome + idade) - Erro
 
 '''
+
 '''
-- Composição:  Juntar várias strings para construir uma mensagem nem sempre é prático. Por exemplo:
+ - Composição:  Juntar várias strings para construir uma mensagem nem sempre é prático. Por exemplo:
 exibir que "João Tem X anos", em que X é uma variável númerica.
 
 - Usando a composição de strings do Python, podemos escrever de forma simples e clara: "João tem %d ano" %X
@@ -52,7 +53,7 @@ print("%s tem %d anos, tem R$%.2f no bolso e estuda %s" % ("Joao", 21, 34.50, "C
 
 
 '''
-- Fatiamento: O fatiamento funciona com a utilização de dois pontos no índice da string. Exemplos:
+ - Fatiamento: O fatiamento funciona com a utilização de dois pontos no índice da string. Exemplos:
 
 '''
 

@@ -1,5 +1,5 @@
 '''
-- Quando trabalhamos com variáveis, devemos nos lembrar de que o conteúdo de uma variável pode mudar
+ - Quando trabalhamos com variáveis, devemos nos lembrar de que o conteúdo de uma variável pode mudar
 com o tempo. Isso porque, a cada vez que alteramos o valor de uma variável , o valor anterior é substituido
 pelo novo
 

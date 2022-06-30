@@ -1,4 +1,4 @@
-# Tipo de variável que possue verdadeiro(True) ou falso(False)
+#  - Tipo de variável que possue verdadeiro(True) ou falso(False)
 
 # Resultado recebe True
 resultado = True

@@ -1,5 +1,5 @@
 '''
-- Se digitarmos um número, o resultado sempre será uma string, para resolver isso precisamos usar a função int 
+ - Se digitarmos um número, o resultado sempre será uma string, para resolver isso precisamos usar a função int 
 ou a função float.
 
 '''

@@ -1,3 +1,5 @@
+# Diferentes bases númericas podem ser utilizadas
+
 # Base 2 - Binário
 a = 0b10 # 2
 print(a)

@@ -1,5 +1,5 @@
 '''
-Operadores relacionais são utilizados para fazer comparações lógicas. 
+ - Operadores relacionais são utilizados para fazer comparações lógicas. 
 
 Por exemplo:
 - Igualdade

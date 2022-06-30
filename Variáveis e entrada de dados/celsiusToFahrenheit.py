@@ -1,4 +1,4 @@
-# Exercicío 3.13 - Escreva um programa que converta uma temperatura digitada em Cº em Fº.
+# - Exercicío 3.13 - Escreva um programa que converta uma temperatura digitada em Cº em Fº.
 
 from ctypes.wintypes import INT
 

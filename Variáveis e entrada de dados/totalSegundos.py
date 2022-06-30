@@ -1,4 +1,4 @@
-# Exercicío 3.9 - Escreva um programa que leia a quantidade de dias, horas, minutos e segundo do usuário. Calcule o total em segundo
+# - Exercicío 3.9 - Escreva um programa que leia a quantidade de dias, horas, minutos e segundo do usuário. Calcule o total em segundo
 
 dias = int(input("Digite a quantidade de dias: ")) # Recebendo a quantidade de dias
 horas = int(input("Digite a quantidade de horas: ")) # Recebendo a quantidade de horas
