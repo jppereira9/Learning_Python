@@ -1,8 +1,5 @@
 # Adicionando elementos na lista
 
-from re import L
-
-
 L = [] # Lista L (vazia)
 print(L, len(L)) #Lista vazia
 
