@@ -14,7 +14,7 @@ print(f'{string1.lstrip()}')
 print(f'{string1.rstrip()}')
 
 ''''
-Se você passar um parâmetro tanto para strip quanto para lstip ou rstip, este seá utilizado
+Se você passar um parâmetro tanto para strip quanto para lstip ou rstip, este será utilizado
 como caractere a remover
 
 '''
